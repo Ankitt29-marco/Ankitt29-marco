@@ -12,6 +12,9 @@
   <a href="https://www.linkedin.com/in/ankit-kumar-bisoyi-075262287/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://leetcode.com/u/Ankitkumarbisoyi29/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
   <a href="https://codolio.com/profile/ankitt29-marco" target="_blank">
     <img src="https://img.shields.io/badge/Codolio-FF4500?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio Portfolio"/>
   </a>
@@ -41,6 +44,21 @@ I am an **AI & Data Science Engineer** and **Full Stack Developer** passionate a
 
 ---
 
+## 📅 Monthly Coding Calendar & Insights
+
+Track my consistency, problem-solving frequency, and streak metrics updated dynamically across coding platforms.
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitt29-marco&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Monthly Coding Activity Calendar" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitt29-marco&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=ankitt29-marco&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
 ## 📁 Featured Projects
 
 ### **EarnSure** 
@@ -57,25 +75,21 @@ I am an **AI & Data Science Engineer** and **Full Stack Developer** passionate a
 
 ---
 
-## 🕹️ Interactive Contribution Snake Game
-
-This real-time animation is automatically generated from my coding activity. Watch the snake eat my contribution pixels!
+## 🏎️ Retro Car Racing Game Terminal
+*Click inside the game window below to control your racer! Use your Left and Right Arrow keys to dodge traffic obstacles.*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ankitt29-marco/ankitt29-marco/output/github-contribution-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+  <iframe src="https://marvinkrusch.github.io/react-car-game/" width="100%" height="450px" style="border:2px solid #00F7FF; border-radius: 8px; background: #000;" scrolling="no"></iframe>
 </p>
 
 ---
 
-## 📊 31-Day Activity Calendar & Metrics
+## 🕹️ Contribution Snake Grid Animation
+
+Watch the snake crawl through and clear my code contribution matrix blocks over time.
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitt29-marco&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitt29-marco&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=ankitt29-marco&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://raw.githubusercontent.com/ankitt29-marco/ankitt29-marco/output/github-contribution-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
 
 ---
