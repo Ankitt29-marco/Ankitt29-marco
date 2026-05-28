@@ -12,6 +12,9 @@
   <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://codolio.com/profile/ankitt29-marco" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-FF4500?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio Portfolio"/>
+  </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -54,15 +57,25 @@ I am an **AI & Data Science Engineer** and **Full Stack Developer** passionate a
 
 ---
 
-## 📊 GitHub Metrics
+## 🕹️ Interactive Contribution Snake Game
+
+This real-time animation is automatically generated from my coding activity. Watch the snake eat my contribution pixels!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ankitt29-marco/ankitt29-marco/output/github-contribution-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+</p>
+
+---
+
+## 📊 31-Day Activity Calendar & Metrics
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitt29-marco&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ankitt29-marco&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=ankitt29-marco&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitt29-marco&theme=tokyo-night&hide_border=true" width="96%" />
 </p>
 
 ---
@@ -70,3 +83,27 @@ I am an **AI & Data Science Engineer** and **Full Stack Developer** passionate a
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ankitt29-marco&label=Profile%20Views&color=00F7FF&style=flat-square" alt="Profile Views"/>
 </p>
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: ankitt29-marco
+          svg_out_path: dist/github-contribution-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
