@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="linkedin_banner_ankit.png" alt="Ankit Kumar Bisoyi Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Ankit Kumar Bisoyi</h1>
 
 <p align="center">
@@ -28,19 +32,8 @@ I am an **AI & Data Science Engineer** and **Full Stack Developer** passionate a
 
 ## 🛠️ Tech Stack
 
-### **Languages & Core**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,c" alt="Languages" />
-</p>
-
-### **Web Development & Databases**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,html,css" alt="Web & DB" />
-</p>
-
-### **Tools & DevOps**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,latex" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,c,react,nodejs,express,mongodb,mysql,html,css,git,github,vscode,postman,latex" alt="My Tech Stack" />
 </p>
 
 ---
