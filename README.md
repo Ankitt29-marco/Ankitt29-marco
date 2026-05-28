@@ -72,38 +72,3 @@ This real-time animation is automatically generated from my coding activity. Wat
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitt29-marco&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitt29-marco&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=ankitt29-marco&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankitt29-marco&label=Profile%20Views&color=00F7FF&style=flat-square" alt="Profile Views"/>
-</p>
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: ankitt29-marco
-          svg_out_path: dist/github-contribution-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
