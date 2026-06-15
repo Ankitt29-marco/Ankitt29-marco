@@ -1,6 +1,6 @@
 <h1 align="center">Ankit Kumar Bisoyi</h1>
 <p align="center">
-  <strong>AI & Data Scientist • Full Stack Developer • Co-Founder</strong>
+  <strong>AI & Data Scientist • Full Stack Developer • Future Co-Founder</strong>
 </p>
 
 <p align="center">
