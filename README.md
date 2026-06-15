@@ -28,7 +28,7 @@
 
 I am an **AI & Data Science Engineer** and **Full Stack Developer** specializing in building highly scalable web architectures and intelligent, data-driven backends. I bridge the gap between complex machine learning models and robust production-ready environments. 
 
-*   **Engineering Leadership:** Co-Founder driving product lifecycles, full-stack technical architecture, and real-world system optimization.
+*   **Engineering Leadership:** Future Co-Founder driving product lifecycles, full-stack technical architecture, and real-world system optimization.
 *   **Algorithmic Proficiency:** Active competitive programmer focused on advanced data structures, graph theory, and algorithmic problem-solving.
 
 ---
