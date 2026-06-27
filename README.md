@@ -78,22 +78,3 @@ This calendar maps active programmatic commits, structural code additions, and a
 </p>
 
 ---
-
-## 🎮 Interactive Simulator Modules
-
-### **Terminal Retro Car Racer**
-*Click inside the canvas window below to lock focus. Use your **Left** and **Right Arrow Keys** to dodge traffic obstacles.*
-<p align="center">
-  <iframe src="https://marvinkrusch.github.io/react-car-game/" width="100%" height="400px" style="border:1px solid #222; border-radius: 8px; background: #000;" scrolling="no"></iframe>
-</p>
-
-### **Contribution Matrix Crawler**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ankitt29-marco/ankitt29-marco/output/github-contribution-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-</p>
-
----
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ankitt29-marco&label=Profile%20Views&color=00F7FF&style=flat-square" alt="Profile Views"/>
-</p>
