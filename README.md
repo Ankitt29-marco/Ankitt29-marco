@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Engineer;Future Founder+%26+Full+Stack+Developer;MERN+Stack+Developer;Python+Backend+Developer;DSA+%26+Competitive+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Engineer;Founder+%26+Full+Stack+Developer;MERN+Stack+Developer;Python+Backend+Developer;DSA+%26+Competitive+Programmer" />
 </p>
 
 ---
