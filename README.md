@@ -1,6 +1,6 @@
 <h1 align="center">Ankit Kumar Bisoyi</h1>
 <p align="center">
-  <strong>AI & Data Scientist • Full Stack Developer • Future Co-Founder</strong>
+  <strong>AI & Data Scientist • Full Stack Developer • Future Founder</strong>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Engineer;Co-Founder+%26+Full+Stack+Developer;MERN+Stack+Developer;Python+Backend+Developer;DSA+%26+Competitive+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Engineer;Future Founder+%26+Full+Stack+Developer;MERN+Stack+Developer;Python+Backend+Developer;DSA+%26+Competitive+Programmer" />
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
 I am an **AI & Data Science Engineer** and **Full Stack Developer** specializing in building highly scalable web architectures and intelligent, data-driven backends. I bridge the gap between complex machine learning models and robust production-ready environments. 
 
-*   **Engineering Leadership:** Future Co-Founder driving product lifecycles, full-stack technical architecture, and real-world system optimization.
+*   **Engineering Leadership:** Future Founder driving product lifecycles, full-stack technical architecture, and real-world system optimization.
 *   **Algorithmic Proficiency:** Active competitive programmer focused on advanced data structures, graph theory, and algorithmic problem-solving.
 
 ---
